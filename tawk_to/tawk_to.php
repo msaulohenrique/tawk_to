@@ -12,7 +12,7 @@ function tawk_to_config() {
     "website" => "www.ninjashost.com.br",
     "language" => "portuguese",
     "fields" => array(
-    	"clientareacode" => array ("FriendlyName" => "Client Area Tracking Code", "Type" => "textarea", "Rows" => "10", "Cols" => "50", "Description" => "Tracking Code for the client area", "Default" => "", )
+    	"clientareacode" => array ("FriendlyName" => "URL Takw.To", "Type" => "textarea", "Rows" => "1", "Description" => "Informe a URL. Ex: https://embed.tawk.to/55d1187c14f3be7a3816d367/default", "Default" => "", )
     ));
     return $configarray;
 }
