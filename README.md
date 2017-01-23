@@ -15,4 +15,4 @@ To configure, go to Setup -> Addon Modules -> Tawk.To -> Cofigure.
 
 ## License
 
-[GPLv2](license)
+[GPLv2](LICENSE)
