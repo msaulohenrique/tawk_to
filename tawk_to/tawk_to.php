@@ -9,7 +9,7 @@ function tawk_to_config() {
     "description" => "Exiba em todas as páginas o Tawk.To.",
     "version" => "1.0",
     "author" => "Saulo Henrique",
-    "website" => "www.ninjashost.com.br",
+    "website" => "https://github.com/msaulohenrique",
     "language" => "portuguese",
     "fields" => array(
     	"clientareacode" => array ("FriendlyName" => "URL Takw.To", "Type" => "textarea", "Rows" => "1", "Description" => "Informe a URL. Ex: https://embed.tawk.to/55d1187c14f3be7a3816d367/default", "Default" => "", )
@@ -39,7 +39,7 @@ function tawk_to_upgrade($vars) {
 
 function tawk_to_output($vars) {
 
-	echo "Para configurar, vá para Setup -> Addon Modules -> Tawk.To -> Cofigure.";
+	echo "Para configurar, vá para Setup -> Addon Modules -> Tawk.To -> Configure.";
 
 }
 
