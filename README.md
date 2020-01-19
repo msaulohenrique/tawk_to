@@ -2,13 +2,13 @@
 
 ## Description
 Add Tawk.to Chat to WHMCS
-When the customer is logged in, the chat will have the name and email options filled in automatically. Credit Jefferson [DDR Host](https://github.com/ddrhost)!
+When the customer is logged in, the chat will have the name and email options filled in automatically. Credit to Jefferson [DDR Host](https://github.com/ddrhost)!
 
 ## Installation
 
 Clone into WHMCS/modules/addons:
 
-    git clone https://github.com/msaulohenrique/tawk_to.git pWHMCS/modules/addons
+    git clone https://github.com/msaulohenrique/tawk_to.git WHMCS/modules/addons
 	
 Or download the zip and upload contents to WHMCS/modules/addons/
 
