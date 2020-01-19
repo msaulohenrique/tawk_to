@@ -1,7 +1,8 @@
 # Module WHMCS Tawk.to
 
 ## Description
-Add Tawk.to Chat to WHMCS
+Add Tawk.to Chat to WHMCS.
+
 When the customer is logged in, the chat will have the name and email options filled in automatically. Credit to Jefferson [DDR Host](https://github.com/ddrhost)!
 
 ## Installation
